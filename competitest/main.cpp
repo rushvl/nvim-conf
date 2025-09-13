@@ -10,7 +10,10 @@
 using namespace std;
 
 void solve();
-void init();
+
+void init() {
+
+}
 
 int main() {
   int t=1;
